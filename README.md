@@ -17,6 +17,7 @@ To create an expression, simply enter any text along with the replacement tokens
 * environmentShortCode - The short code of the environment - resolved with  VLOOKUP and down based on the value in the Environments sheet.
 * environmentLongCode - The long code of the environment - resolved with  VLOOKUP and down based on the value in the Environments sheet.
 * AzureRegion - Name of the region - resolved with  VLOOKUP and down based on the value in the Azure Region sheet.
+* AzureRegionShortCode - Short Code of Region based on the value in the Azure Region sheet.
 * azureServiceAbbreviation - The full resource type name - resolved with  VLOOKUP and down based on the value in the Resources sheet.
 
 
